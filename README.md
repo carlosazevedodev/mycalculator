@@ -1,75 +1,29 @@
-My Calculator - English
+🧮 A Simple, Interactive Calculator for Basic Arithmetic
+MyCalculator is a web-based calculator that performs essential arithmetic operations like addition, subtraction, multiplication, and division. It's designed to be user-friendly and responsive, suitable for anyone needing quick calculations.
 
-A simple and elegant calculator built with HTML, CSS, and JavaScript. This project was developed to provide a clean and modern user interface, working well on mobile devices, tablets, and desktops.
-
-Features
-Addition, subtraction, multiplication, and division.
-Responsive user interface.
-Modern and elegant design.
-Hover effects and button shadows.
-Screenshot
-
-Technologies Used
-HTML
-CSS
-JavaScript
-How to Use
-1. Clone the repository:
+🚀 Features
+Basic Operations: Add, subtract, multiply, and divide.
+Clear Function: Reset calculations easily with the "Clear" button.
+Responsive Design: Works seamlessly on different screen sizes.
+Interactive Buttons: Each button offers immediate feedback for a smooth experience.
+🛠️ Tech Stack
+HTML - Structure and layout
+CSS - Styling and design
+JavaScript - Core functionality and operations
+🔧 Installation
+1. Clone this repository:
 git clone https://github.com/carlosazevedodev/mycalculator.git
 
-2. Navigate to the project directory:
-
-cd mycalculator
-
-3. Open the index.html file in your browser.
-
-
-GitHub Pages Deployment
-This project is deployed on GitHub Pages and can be accessed at:
-
-https://carlosazevedodev.github.io/mycalculator
-
-Contributions are welcome!
-
-Note on License: 
-This project does not have an explicit license. If you wish to use this code, please contact me.
-
-My Calculator - Portuguese
-
-Uma calculadora simples e elegante construída com HTML, CSS e JavaScript. Este projeto foi desenvolvido para fornecer uma interface de usuário limpa e moderna, funcionando bem em dispositivos móveis, tablets e desktops.
-
-Funcionalidades
-Adição, subtração, multiplicação e divisão.
-Interface de usuário responsiva.
-Design moderno e elegante.
-Efeitos de hover e sombras nos botões.
-Visualização
-
-Tecnologias Utilizadas
-HTML
-CSS
-JavaScript
-
-Como Usar
-1. Clone o repositório:
-
-git clone https://github.com/carlosazevedodev/mycalculator.git
-
-2. Navegue até o diretório do projeto:
-   
-cd mycalculator
-
-3. Abra o arquivo index.html em seu navegador.
-
-Publicação no GitHub Pages
-Este projeto está publicado no GitHub Pages e pode ser acessado através do link:
-
-https://carlosazevedodev.github.io/mycalculator.
+2. Open index.html in a browser to use the calculator.
+💡 How to Use
+Open index.html in any browser.
+Input numbers and choose operations using the buttons.
+Press = to get the result, and C to clear.
 
 
-Contribuições são bem-vindas! 
+🎉 Contributions and Feedback
+If you have feedback or suggestions, feel free to open an issue or pull request.
 
-Licença: Este projeto não possui uma licença explícita. Se você deseja usar este código, por favor, entre em contato comigo
 
 
 
