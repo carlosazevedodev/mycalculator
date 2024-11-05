@@ -20,10 +20,6 @@ Open index.html in any browser.
 Input numbers and choose operations using the buttons.
 Press = to get the result, and C to clear.
 
-📷 Screenshot:
-
-![Calculator Screenshot]([images/screenshot1.png](https://github.com/carlosazevedodev/mycalculator/blob/3e6f9b7ae94ed9de08f3f630792ba14c97cbaf29/Captura%20de%20ecr%C3%A3%202024-11-05%20104958.png))
-
 
 🎉 Contributions and Feedback
 If you have feedback or suggestions, feel free to open an issue or pull request.
